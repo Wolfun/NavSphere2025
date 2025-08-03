@@ -8,8 +8,8 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_ID = "Ov23liCXFTXsymNUYOJJ"
 GITHUB_OWNER = "wolfun"
-GITHUB_REPO = "Navsphere2025"
+GITHUB_REPO = "NavSphere2025"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navsphere2025.pages.dev/api/auth"
+NEXTAUTH_URL = "https://navphere2025.pages.dev/api/auth"
 NEXT_PUBLIC_API_URL="https://navsphere2025.pages.dev/"
 
