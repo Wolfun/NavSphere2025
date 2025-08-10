@@ -22,6 +22,14 @@
               "description": "纽特云计算，采用N2线路直连中国内地骨干网，同时接入多条国际优质线路，采用全速BGP网络。为企业提供安全可靠的数据存储、高速传输和灵活扩展的解决方案",
               "icon": "/assets/favicon_1754847143470.png",
               "enabled": true
+            },
+            {
+              "id": "1754847185450",
+              "title": "免费主机|永久免费空间|php虚拟主机|cPanel主机|博客建站|免费域名|云主机-freehost.cc",
+              "href": "https://www.swb.cc/",
+              "description": "免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间，配置PHP+Apache+MYSQL，5G存储空间、每月无限流量，支持绑定独立域名，搭配简单易用的cPanel建站面板，是初期建站学习的最佳选择。",
+              "icon": "/assets/favicon_1754847189348.ico",
+              "enabled": true
             }
           ]
         }
