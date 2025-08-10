@@ -7,7 +7,16 @@
       "description": "关于建站的一些实用网站",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5dfe2c6a-7434-434c-acb0-f515df917251",
+          "title": "服务器相关",
+          "icon": "Files",
+          "description": "搜集的一些服务器",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
