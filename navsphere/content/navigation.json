@@ -59,6 +59,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754900458179",
+      "title": "影音图像",
+      "icon": "FolderKanban",
+      "description": "一些关于影视，音乐，图像相关的实用网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
