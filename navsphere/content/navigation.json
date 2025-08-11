@@ -119,6 +119,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "cf35b970-54b1-4cf9-ae99-c31ae2f0191e",
+          "title": "论坛大能",
+          "icon": "Folder",
+          "description": "搜集的一些超实用论坛涵盖广",
+          "enabled": true,
+          "items": []
         }
       ]
     }
