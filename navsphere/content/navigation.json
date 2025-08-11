@@ -102,7 +102,16 @@
       "description": "收集的一些实用的论坛，技术博客",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "091e542a-ae6c-4c44-bc41-e11d15a2d0c5",
+          "title": "技术博客",
+          "icon": "Folder",
+          "description": "收集的博客技术大佬",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
