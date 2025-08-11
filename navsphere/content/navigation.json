@@ -55,6 +55,14 @@
               "description": "免费的域名服务商",
               "icon": "https://domain.digitalplat.org/wp-content/uploads/2023/05/cropped-IMG_20230511_165610-32x32.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1754906886107_8qpx1fk6s",
+              "title": "萌国",
+              "href": "https://icp.gov.moe/aboutus.php",
+              "description": "萌国萌站广场导航！及时收录宅网站、萌网站、动漫网站、博客网站、游戏网站、技术网站等内容。让您获得更加简单快捷了解萌备！",
+              "icon": "/assets/favicon_1754906869379.ico",
+              "enabled": true
             }
           ]
         }
