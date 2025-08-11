@@ -43,9 +43,9 @@
         },
         {
           "id": "8c77d8c2-4500-4ce0-b7c3-2c005132afc2",
-          "title": "域名购买",
+          "title": "域名相关",
           "icon": "Folder",
-          "description": "一些购买域名的地方",
+          "description": "购买域名，备案，查询",
           "enabled": true,
           "items": [
             {
