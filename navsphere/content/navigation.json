@@ -40,6 +40,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8c77d8c2-4500-4ce0-b7c3-2c005132afc2",
+          "title": "域名购买",
+          "icon": "Folder",
+          "description": "一些购买域名的地方",
+          "enabled": true,
+          "items": []
         }
       ]
     }
