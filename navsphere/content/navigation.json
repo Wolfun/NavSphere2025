@@ -66,16 +66,7 @@
       "icon": "FolderKanban",
       "description": "一些关于影视，音乐，图像相关的实用网站",
       "enabled": true,
-      "items": [
-        {
-          "id": "1754900470078",
-          "title": "免费在线拼图工具",
-          "href": "https://img.ops-coffee.cn/",
-          "description": "一款强大的免费在线创意工具，不仅支持网格拼图与长图拼接，更能跨模式自由添加文字、箭头、方框和圆圈进行标注和创作。支持图片缩放、平移等精细化操作。纯客户端处理，绝对注重隐私，无需登录，高清无水印下载。",
-          "icon": "/assets/favicon_1754900477041.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "5e0a7c60-1637-4cd1-830b-bef25a0b9f8a",
@@ -83,7 +74,16 @@
           "icon": "Folder",
           "description": "处理图片的工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754900470078",
+              "title": "免费在线拼图工具",
+              "href": "https://img.ops-coffee.cn/",
+              "description": "一款强大的免费在线创意工具，不仅支持网格拼图与长图拼接，更能跨模式自由添加文字、箭头、方框和圆圈进行标注和创作。支持图片缩放、平移等精细化操作。纯客户端处理，绝对注重隐私，无需登录，高清无水印下载。",
+              "icon": "/assets/favicon_1754900477041.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
