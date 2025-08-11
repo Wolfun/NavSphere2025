@@ -47,7 +47,16 @@
           "icon": "Folder",
           "description": "一些购买域名的地方",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754898224818",
+              "title": "DigitalPlat FreeDomain",
+              "href": "https://domain.digitalplat.org/",
+              "description": "免费的域名服务商",
+              "icon": "https://domain.digitalplat.org/wp-content/uploads/2023/05/cropped-IMG_20230511_165610-32x32.jpg",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
