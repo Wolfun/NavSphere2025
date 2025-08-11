@@ -109,7 +109,16 @@
           "icon": "Folder",
           "description": "收集的博客技术大佬",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754917716867_abc9d7zkp",
+              "title": "安小熙博客",
+              "href": "https://www.anxiaoxi.com/",
+              "description": "安小熙博客(www.anxiaoxi.com)专注于资源分享，网站源码分享，教程及实用软件，和建站教程和源码评测,为站长们推荐有价值的好东西资源分享，总之就是网络那些事。",
+              "icon": "/assets/favicon_1754917517608.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
