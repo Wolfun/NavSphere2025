@@ -126,7 +126,16 @@
           "icon": "Folder",
           "description": "搜集的一些超实用论坛涵盖广",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754929668809_hf4d2o72g",
+              "title": "NodeSeek",
+              "href": "https://www.nodeseek.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
