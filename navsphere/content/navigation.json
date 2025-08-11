@@ -30,6 +30,14 @@
               "description": "免费主机（freehost.cc）提供永久免费、无广告的海外虚拟主机空间，配置PHP+Apache+MYSQL，5G存储空间、每月无限流量，支持绑定独立域名，搭配简单易用的cPanel建站面板，是初期建站学习的最佳选择。",
               "icon": "/assets/favicon_1754847189348.ico",
               "enabled": true
+            },
+            {
+              "id": "1754897963918",
+              "title": "Login to your account - InfinityFree",
+              "href": "https://dash.infinityfree.com/",
+              "description": "免费主机",
+              "icon": "/assets/favicon_1754897966242.ico",
+              "enabled": true
             }
           ]
         }
